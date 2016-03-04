@@ -6,3 +6,6 @@ https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/prot
 
 // NCI Edit Tab
 https://raw.githubusercontent.com/bdionne/nci-edit-tab/master/src/main/resources/update.properties
+
+// Protege Client
+https://raw.githubusercontent.com/bdionne/protege-client/master/src/main/resources/update.properties
