@@ -8,4 +8,4 @@ https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/prot
 https://raw.githubusercontent.com/bdionne/nci-edit-tab/master/src/main/resources/update.properties
 
 // Protege Client
-https://raw.githubusercontent.com/bdionne/protege-client/tree/autoupdate/src/main/resources/update.properties
+https://raw.githubusercontent.com/bdionne/protege-client/blob/autoupdate/src/main/resources/update.properties
