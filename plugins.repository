@@ -1,15 +1,6 @@
 
 // ***** CURRENT PLUG-INS (alphabetical ordering) *****
 
-// DL Query
-https://raw.githubusercontent.com/protegeproject/dlquery/master/update-info/protege-4/update.properties
-
 // NCI Edit Tab
 https://raw.githubusercontent.com/bdionne/nci-edit-tab/master/src/main/resources/update.properties
-
-// Protege Client
-https://raw.githubusercontent.com/bdionne/protege-client/autoupdate/src/main/resources/update.properties
-
-// Lucene Search
-https://raw.githubusercontent.com/bdionne/lucene-search-plugin/nci-lucene-search/src/main/resources/update.properties
 
