@@ -4,3 +4,6 @@
 // NCI Edit Tab
 https://raw.githubusercontent.com/bdionne/nci-edit-tab/complex-op/src/main/resources/update.properties
 
+// NCI Search Tab
+https://raw.githubusercontent.com/bdionne/lucene-search-tab/master/src/main/resources/update.properties
+
