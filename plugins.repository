@@ -16,3 +16,6 @@ https://raw.githubusercontent.com/bdionne/revision-history/master/src/main/resou
 // SPARQL Query
 https://raw.githubusercontent.com/bdionne/sparql-query-plugin/master/src/main/resources/update.properties
 
+// EVS History
+https://raw.githubusercontent.com/bdionne/evs-history/master/src/main/resources/update.properties
+
