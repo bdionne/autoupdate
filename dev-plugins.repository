@@ -1,0 +1,21 @@
+
+// ***** CURRENT PLUG-INS (alphabetical ordering) *****
+
+// NCI Edit Tab
+https://raw.githubusercontent.com/ncievs/nci-edit-tab/master/src/main/resources/dev-update.properties
+
+// NCI Search Tab
+https://raw.githubusercontent.com/ncievs/lucene-search-tab/master/src/main/resources/dev-update.properties
+
+// Metaproject Admin
+https://raw.githubusercontent.com/ncievs/metaproject-admin/master/src/main/resources/dev-update.properties
+
+// Revision History
+https://raw.githubusercontent.com/ncievs/revision-history/master/src/main/resources/dev-update.properties
+
+// SPARQL Query
+https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/resources/dev-update.properties
+
+// EVS History
+https://raw.githubusercontent.com/ncievs/evs-history/master/src/main/resources/dev-update.properties
+
