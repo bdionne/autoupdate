@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/ncievs/lucene-search-tab/master/src/main/resou
 https://raw.githubusercontent.com/ncievs/metaproject-admin/master/src/main/resources/update.properties
 
 // Revision History
-https://raw.githubusercontent.com/ncievs/revision-history/master/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/revision-history/master/src/main/resources/dev/update.properties
 
 // SPARQL Query
 https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/resources/update.properties
