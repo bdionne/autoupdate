@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/ncievs/sparql-query-plugin/master/src/main/res
 // EVS History
 https://raw.githubusercontent.com/ncievs/evs-history/master/src/main/resources/update.properties
 
-// Pellet plugin
-https://raw.githubusercontent.com/ncievs/pellet/master/protege/src/main/resources/update.properties
+// NCI Curator
+https://raw.githubusercontent.com/bdionne/nci-curator/master/src/main/resources/update.properties
 
 
 
