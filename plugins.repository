@@ -2,7 +2,7 @@
 // ***** CURRENT PLUG-INS (alphabetical ordering) *****
 
 // NCI Edit Tab
-https://raw.githubusercontent.com/ncievs/nci-edit-tab/570-prefs-dev1/src/main/resources/update.properties
+https://raw.githubusercontent.com/ncievs/nci-edit-tab/master/src/main/resources/update.properties
 
 // NCI Search Tab
 https://raw.githubusercontent.com/ncievs/lucene-search-tab/master/src/main/resources/update.properties
